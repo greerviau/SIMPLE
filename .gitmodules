@@ -1,0 +1,3 @@
+[submodule "app/environments/Pytan"]
+	path = app/environments/Pytan
+	url = https://github.com/greerviau/Pytan.git
